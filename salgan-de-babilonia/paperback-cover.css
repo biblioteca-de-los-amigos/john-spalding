@@ -13,6 +13,10 @@
   margin-top: -12%;
 }
 
+#__id__.trim--xl h2.title {
+  font-size: 0.45in;
+}
+
 #__id__ .blurb {
   font-size: 2.45%;
 }
