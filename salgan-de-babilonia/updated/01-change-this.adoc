@@ -3,7 +3,7 @@ ____
 Examinadlo todo; retened lo bueno.
 ____
 
-[#salgan, short="Salgan de Babilonia"]
+[short="Salgan de Babilonia"]
 == Salgan de Babilonia / Un Llamado a la Verdadera Adoración
 
 [.blurb]
